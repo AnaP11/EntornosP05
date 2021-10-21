@@ -1,5 +1,11 @@
-Aquí estamos probando los comandos push y remote, utilizando dos equipos de clase.
+Aquí estamos probando los comandos push y clone, utilizando dos equipos de clase.
+
 **Ana Ponce**
+
 **Leonardo Velasquez**
+
+
 **Yeison Rodriguez**
-**Andres ibañez**
+
+
+**Andrés Ibañez**
